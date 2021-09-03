@@ -17,19 +17,44 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Parth**
+# **Nightlights for economic growth and development **
+### Everything you wanted to know but could not google
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Nightlights is the measure of radiance over regions of earth surface, as seen from satellites. Over the years there have been multiple products released by NASA/NOAA/Colorado School. Namely,
 
-## How to use
+1. DMSP (Annual: 1992-2012)
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+2. VIIRS (Monthly/Annual: 2012-onwards)
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+3. Black Marble
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
+DMSP or US Air Force Defense Meteorological Satellite Program was the earliest product aboard the  Operational Linescan System (OLS). 
 
-4. Change everything to make it your own.
+
+### Nightlights: Beyond the Ctrl C + Ctrl V of the first paragraph in every Data section
+
+Nightlights data has been used as a proxy for economic development since its public release by NASA/NOAA from 1992. However, the data has been compiled for long before that. The primary use of this data as the name 'US Air Force Defense Meteorological Satellite Program' suggests was considered to detect tanks and terrain army vehicles and is believed to have played a role in the operation Desert Fox (link).
+
+
+
+
+### Summary of empirical strategies
+
+Nightlights has so far been used in economic literature under two broad heads, 
+
+1. Macro: Assessing growth of countries with poor statistical capacity
+
+2. Micro: Measuring 
+
+
+### Getting the data 
+
+1. NASA/NOAA
+
+2. Colorado School of Mines
+
+3. Compiled repositories
+
 
 
 </div>
