@@ -17,37 +17,44 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Nightlights for economic growth and development **
-### Everything you wanted to know but could not google
+## **Nightlights for economic growth & development **
+#### Everything you wanted to know but could not google
 
-Nightlights is the measure of radiance over regions of earth surface, as seen from satellites. Over the years there have been multiple products released by NASA/NOAA/Colorado School. Namely,
+Nightlights is a measure of radiance, assessed over regions of earth surface, as seen from satellites. Over the years there have been multiple products released by NASA/NOAA/Colorado School of Mines. Namely,
 
 1. DMSP (Annual: 1992-2012)
-
-2. VIIRS (Monthly/Annual: 2012-onwards)
-
-3. Black Marble
-
-DMSP or US Air Force Defense Meteorological Satellite Program was the earliest product aboard the  Operational Linescan System (OLS). 
+![](images/index/DMSP.png)
 
 
-### Nightlights: Beyond the Ctrl C + Ctrl V of the first paragraph in every Data section
+2. VIIRS (Monthly: 2012-onwards)
+![](images/index/VIIRS.png)
+
+2. VIIRS (Annual: 2012-onwards)
+
+
+DMSP or US Air Force Defense Meteorological Satellite Program was the earliest product aboard the  Operational Linescan System (OLS).
+
+<br>
+<br>
+
+
+#### Nightlights: Beyond the Ctrl C + Ctrl V of the first paragraph in every Data section
 
 Nightlights data has been used as a proxy for economic development since its public release by NASA/NOAA from 1992. However, the data has been compiled for long before that. The primary use of this data as the name 'US Air Force Defense Meteorological Satellite Program' suggests was considered to detect tanks and terrain army vehicles and is believed to have played a role in the operation Desert Fox (link).
 
+<br>
 
 
-
-### Summary of empirical strategies
+#### Summary of empirical strategies
 
 Nightlights has so far been used in economic literature under two broad heads, 
 
 1. Macro: Assessing growth of countries with poor statistical capacity
 
 2. Micro: Measuring 
+<br>
 
-
-### Getting the data 
+#### Getting the data 
 
 1. NASA/NOAA
 
@@ -55,14 +62,14 @@ Nightlights has so far been used in economic literature under two broad heads,
 
 3. Compiled repositories
 
-
+<br>
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### [Nightlights Data: EOD](https://eogdata.mines.edu/nighttime_light/)
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+<a href = "https://eogdata.mines.edu/nighttime_light/">
+![](images/index/NTL grid tiles.png)
 </a>
 </div>
