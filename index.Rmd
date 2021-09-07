@@ -52,6 +52,8 @@ Nightlights has so far been used in economic literature under two broad heads,
 1. Macro: Assessing growth of countries with poor statistical capacity
 
 2. Micro: Measuring 
+
+<br>
 <br>
 
 #### Getting the data 
