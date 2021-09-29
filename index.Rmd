@@ -18,7 +18,7 @@ output: html_document
 <div class="col-sm-6">
 
 ## **Nightlights for economic growth & development **
-#### Everything you wanted to know but could not google
+#### Everything you wanted to know but were disappointed with google
 
 Nightlights is a measure of radiance, assessed over regions of earth surface, as seen from satellites. Over the years there have been multiple products released by NASA/NOAA/Colorado School of Mines. Namely,
 
@@ -51,7 +51,7 @@ Nightlights has so far been used in economic literature under two broad heads,
 
 1. Macro: Assessing growth of countries with poor statistical capacity
 
-2. Micro: Measuring 
+2. Micro: Assessing impacts after policy/shocks
 
 <br>
 <br>
